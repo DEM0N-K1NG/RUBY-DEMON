@@ -1,2 +1,2 @@
 import checker
-checker()
+checker.Shuvo()
