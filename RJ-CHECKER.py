@@ -1,1 +1,1 @@
-import checker.py
+import checker
