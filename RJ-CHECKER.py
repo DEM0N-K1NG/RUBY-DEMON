@@ -1,2 +1,2 @@
-"/data/data/com.termux/files/usr/lib/libpython3.12.so.1.0
+#!/data/data/com.termux/files/usr/bin/python
 import checker
